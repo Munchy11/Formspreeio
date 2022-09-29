@@ -1,0 +1,15 @@
+label {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin: 3rem;
+}
+
+button {
+  display: flex;
+margin: auto;
+}
